@@ -1,5 +1,5 @@
 # Pokemon-Game
-Link:
+Link:https://khushi-155.github.io/Pokemon-Game/
 Overview
 This is a simple Pokémon card game where two players draw random Pokémon cards, and the player with the higher experience points wins. The game uses the Pokémon API to fetch Pokémon data and display their images, names, experience points, and abilities.
 
